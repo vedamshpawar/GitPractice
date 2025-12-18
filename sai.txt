@@ -1,1 +1,3 @@
 this file to check a conflicts do check...
+
+git is perfectly working fine no conflicts
